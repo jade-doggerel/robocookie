@@ -53,11 +53,11 @@ This automates the process _after_ you have accepted the leve. I had automated t
 
 The script will close the window and hand in the cookies for you.
 
-### Notes
+# Notes
 
 If you want to change the hotkeys, it's easy to do so with AHK. Change the `^x::`, `^z::` and `^q::` lines as you see fit, using this [this syntax](https://www.autohotkey.com/docs/Hotkeys.htm).
 
-[^1] This is the macro I use to make cookies, in case you want to try it.
+[^1]: This is the macro I use to make cookies, in case you want to try it.
 ```
 TODO: copy my macro here lol
 ```
