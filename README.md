@@ -34,11 +34,11 @@ Note - the timing for this is set to my macro, which is 21 seconds long[^1]. If 
 1. Put your crafting macro (as made in FFXIV) in hotbar slot 1.
 2. Open the Crafting Log and select the recipe you want to make.
 3. Hover your mouse over the gold 'Synthesize' button.
-4. Press `Ctrl+Z` (like 'Undo')
+4. Press `Ctrl-Z` (like 'Undo')
 5. A popup box will come up asking how many you'd like to craft - fill it in.
 6. Wait for the magic to occur.
 
-A sound will beep when it is done. You can press `Ctrl+Q` to cancel.  
+A sound will beep when it is done. You can press `Ctrl-Q` to cancel.  
 I recommend trying this with Test Synthesis first to make sure all is working as it should.  
 Remember to keep an eye on your gear durability!
 
@@ -49,7 +49,7 @@ This automates the process _after_ you have accepted the leve. I had automated t
 1. Put your HQ cookies in the top left spot of your inventory.
 2. Focus target Moyce by clicking on her and pressing `Shift-F`.
 3. Talk to Eirikur and accept the 'A Cookie for your Troubles' leve, but *don't close the window*.
-4. Press `Ctrl+X`.
+4. Press `Ctrl-X`.
 
 The script will close the window and hand in the cookies for you.
 
@@ -57,7 +57,5 @@ The script will close the window and hand in the cookies for you.
 
 If you want to change the hotkeys, it's easy to do so with AHK. Change the `^x::`, `^z::` and `^q::` lines as you see fit, using this [this syntax](https://www.autohotkey.com/docs/Hotkeys.htm).
 
-[^1]: This is the macro I use to make cookies, in case you want to try it.
-```
-TODO: copy my macro here lol
-```
+[^1]: One day soon I will put my macro here for you to try.
+
